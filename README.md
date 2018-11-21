@@ -1,9 +1,19 @@
-# Fetch API
+# Fetch API - Dog Info
 
->Using the Fetch API.
+>Using the Fetch API to get a information on dogs from the Dog API.
 
 
+## Tech & Dependencies
 
+- JavaScript
+- [Dog API](https://dog.ceo/dog-api/)
+
+
+## Install & Run
+
+- Download zip file and install
+- Open `index.html` in a browser
+ 
 
 
 ## Notes
